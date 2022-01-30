@@ -1,0 +1,3 @@
+= asciidoctor-shout
+
+An example for developing an extension the preferred way.
